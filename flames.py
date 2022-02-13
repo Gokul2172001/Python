@@ -7,3 +7,4 @@ list1=list(name1)
 list2=list(name2)
 list1.extend(list2)
 print(list1)
+list flames={"Friends","Lovers","Affectionate","Marriage","Enemys","Sibilings"}
